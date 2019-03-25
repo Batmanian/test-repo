@@ -1,6 +1,6 @@
 # Test Repo
 
-This code repository is designed to be eeditedd by contributors
+This code repository is designed to be edited by contributors
 
 ## Installation
 
